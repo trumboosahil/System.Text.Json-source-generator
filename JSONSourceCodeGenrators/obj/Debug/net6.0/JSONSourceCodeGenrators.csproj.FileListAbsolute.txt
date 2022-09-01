@@ -1,0 +1,15 @@
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\bin\Debug\net6.0\JSONSourceCodeGenrators.exe
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\bin\Debug\net6.0\JSONSourceCodeGenrators.deps.json
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\bin\Debug\net6.0\JSONSourceCodeGenrators.runtimeconfig.json
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\bin\Debug\net6.0\JSONSourceCodeGenrators.dll
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\bin\Debug\net6.0\ref\JSONSourceCodeGenrators.dll
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\bin\Debug\net6.0\JSONSourceCodeGenrators.pdb
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.csproj.AssemblyReference.cache
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.AssemblyInfoInputs.cache
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.AssemblyInfo.cs
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.csproj.CoreCompileInputs.cache
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.dll
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\ref\JSONSourceCodeGenrators.dll
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.pdb
+C:\Git\JSONSourceCodeGenrators\JSONSourceCodeGenrators\obj\Debug\net6.0\JSONSourceCodeGenrators.genruntimeconfig.cache
